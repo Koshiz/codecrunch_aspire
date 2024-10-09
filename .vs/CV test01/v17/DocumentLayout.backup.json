@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Traning\\CV analyzer\\CV test01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8872595-09C5-4E53-8543-8B58BACA8F91}|BlazorApp1\\BlazorApp1.csproj|c:\\traning\\cv analyzer\\cv test01\\blazorapp1\\components\\pages\\cvsum_v1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8872595-09C5-4E53-8543-8B58BACA8F91}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\cvsum_v1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8872595-09C5-4E53-8543-8B58BACA8F91}|BlazorApp1\\BlazorApp1.csproj|c:\\traning\\cv analyzer\\cv test01\\blazorapp1\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8872595-09C5-4E53-8543-8B58BACA8F91}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2C5770-6A4C-479A-852E-52068F4CEEE2}|CV test01.AppHost\\CV test01.AppHost.csproj|c:\\traning\\cv analyzer\\cv test01\\cv test01.apphost\\cvsummarizercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2C5770-6A4C-479A-852E-52068F4CEEE2}|CV test01.AppHost\\CV test01.AppHost.csproj|solutionrelative:cv test01.apphost\\cvsummarizercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2C5770-6A4C-479A-852E-52068F4CEEE2}|CV test01.AppHost\\CV test01.AppHost.csproj|c:\\traning\\cv analyzer\\cv test01\\cv test01.apphost\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2C5770-6A4C-479A-852E-52068F4CEEE2}|CV test01.AppHost\\CV test01.AppHost.csproj|solutionrelative:cv test01.apphost\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2C5770-6A4C-479A-852E-52068F4CEEE2}|CV test01.AppHost\\CV test01.AppHost.csproj|c:\\traning\\cv analyzer\\cv test01\\cv test01.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2C5770-6A4C-479A-852E-52068F4CEEE2}|CV test01.AppHost\\CV test01.AppHost.csproj|solutionrelative:cv test01.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2C5770-6A4C-479A-852E-52068F4CEEE2}|CV test01.AppHost\\CV test01.AppHost.csproj|c:\\traning\\cv analyzer\\cv test01\\cv test01.apphost\\cvmodel.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2C5770-6A4C-479A-852E-52068F4CEEE2}|CV test01.AppHost\\CV test01.AppHost.csproj|solutionrelative:cv test01.apphost\\cvmodel.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2C5770-6A4C-479A-852E-52068F4CEEE2}|CV test01.AppHost\\CV test01.AppHost.csproj|c:\\traning\\cv analyzer\\cv test01\\cv test01.apphost\\cvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2C5770-6A4C-479A-852E-52068F4CEEE2}|CV test01.AppHost\\CV test01.AppHost.csproj|solutionrelative:cv test01.apphost\\cvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2C5770-6A4C-479A-852E-52068F4CEEE2}|CV test01.AppHost\\CV test01.AppHost.csproj|c:\\traning\\cv analyzer\\cv test01\\cv test01.apphost\\iopenaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2C5770-6A4C-479A-852E-52068F4CEEE2}|CV test01.AppHost\\CV test01.AppHost.csproj|solutionrelative:cv test01.apphost\\iopenaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2C5770-6A4C-479A-852E-52068F4CEEE2}|CV test01.AppHost\\CV test01.AppHost.csproj|c:\\traning\\cv analyzer\\cv test01\\cv test01.apphost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB2C5770-6A4C-479A-852E-52068F4CEEE2}|CV test01.AppHost\\CV test01.AppHost.csproj|solutionrelative:cv test01.apphost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2C5770-6A4C-479A-852E-52068F4CEEE2}|CV test01.AppHost\\CV test01.AppHost.csproj|c:\\traning\\cv analyzer\\cv test01\\cv test01.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB2C5770-6A4C-479A-852E-52068F4CEEE2}|CV test01.AppHost\\CV test01.AppHost.csproj|solutionrelative:cv test01.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2C5770-6A4C-479A-852E-52068F4CEEE2}|CV test01.AppHost\\CV test01.AppHost.csproj|c:\\traning\\cv analyzer\\cv test01\\cv test01.apphost\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB2C5770-6A4C-479A-852E-52068F4CEEE2}|CV test01.AppHost\\CV test01.AppHost.csproj|solutionrelative:cv test01.apphost\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Traning\\CV analyzer\\CV test01\\BlazorApp1\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Routes.razor",
+              "ToolTip": "C:\\Traning\\CV analyzer\\CV test01\\BlazorApp1\\Components\\Routes.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T12:12:03.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Traning\\CV analyzer\\CV test01\\CV test01.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "CV test01.AppHost\\Program.cs",
+              "ToolTip": "C:\\Traning\\CV analyzer\\CV test01\\CV test01.AppHost\\Program.cs",
+              "RelativeToolTip": "CV test01.AppHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:41:52.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CvContext.cs",
+              "DocumentMoniker": "C:\\Traning\\CV analyzer\\CV test01\\CV test01.AppHost\\CvContext.cs",
+              "RelativeDocumentMoniker": "CV test01.AppHost\\CvContext.cs",
+              "ToolTip": "C:\\Traning\\CV analyzer\\CV test01\\CV test01.AppHost\\CvContext.cs",
+              "RelativeToolTip": "CV test01.AppHost\\CvContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:30:33.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOpenAiService.cs",
+              "DocumentMoniker": "C:\\Traning\\CV analyzer\\CV test01\\CV test01.AppHost\\IOpenAiService.cs",
+              "RelativeDocumentMoniker": "CV test01.AppHost\\IOpenAiService.cs",
+              "ToolTip": "C:\\Traning\\CV analyzer\\CV test01\\CV test01.AppHost\\IOpenAiService.cs",
+              "RelativeToolTip": "CV test01.AppHost\\IOpenAiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:30:07.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CVModel.cs.cs",
+              "DocumentMoniker": "C:\\Traning\\CV analyzer\\CV test01\\CV test01.AppHost\\CVModel.cs.cs",
+              "RelativeDocumentMoniker": "CV test01.AppHost\\CVModel.cs.cs",
+              "ToolTip": "C:\\Traning\\CV analyzer\\CV test01\\CV test01.AppHost\\CVModel.cs.cs",
+              "RelativeToolTip": "CV test01.AppHost\\CVModel.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:29:55.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Traning\\CV analyzer\\CV test01\\CV test01.AppHost\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CV test01.AppHost\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Traning\\CV analyzer\\CV test01\\CV test01.AppHost\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CV test01.AppHost\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T11:25:54.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OpenAiService.cs",
+              "DocumentMoniker": "C:\\Traning\\CV analyzer\\CV test01\\CV test01.AppHost\\OpenAiService.cs",
+              "RelativeDocumentMoniker": "CV test01.AppHost\\OpenAiService.cs",
+              "ToolTip": "C:\\Traning\\CV analyzer\\CV test01\\CV test01.AppHost\\OpenAiService.cs",
+              "RelativeToolTip": "CV test01.AppHost\\OpenAiService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:52:49.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CVSummarizerController.cs",
+              "DocumentMoniker": "C:\\Traning\\CV analyzer\\CV test01\\CV test01.AppHost\\CVSummarizerController.cs",
+              "RelativeDocumentMoniker": "CV test01.AppHost\\CVSummarizerController.cs",
+              "ToolTip": "C:\\Traning\\CV analyzer\\CV test01\\CV test01.AppHost\\CVSummarizerController.cs",
+              "RelativeToolTip": "CV test01.AppHost\\CVSummarizerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:48:46.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CVSum_v1.razor",
+              "DocumentMoniker": "C:\\Traning\\CV analyzer\\CV test01\\BlazorApp1\\Components\\Pages\\CVSum_v1.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\CVSum_v1.razor",
+              "ToolTip": "C:\\Traning\\CV analyzer\\CV test01\\BlazorApp1\\Components\\Pages\\CVSum_v1.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\CVSum_v1.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T10:47:48.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Traning\\CV analyzer\\CV test01\\CV test01.AppHost\\appsettings.json",
+              "RelativeDocumentMoniker": "CV test01.AppHost\\appsettings.json",
+              "ToolTip": "C:\\Traning\\CV analyzer\\CV test01\\CV test01.AppHost\\appsettings.json",
+              "RelativeToolTip": "CV test01.AppHost\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T10:47:18.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Traning\\CV analyzer\\CV test01\\CV test01.AppHost\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CV test01.AppHost\\appsettings.Development.json",
+              "ToolTip": "C:\\Traning\\CV analyzer\\CV test01\\CV test01.AppHost\\appsettings.Development.json",
+              "RelativeToolTip": "CV test01.AppHost\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T10:47:13.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

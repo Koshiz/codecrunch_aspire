@@ -1,0 +1,53 @@
+﻿@page "/cvsumv1"
+@rendermode InteractiveServer
+@inject HttpClient Http
+
+<PageTitle>CV Summarization</PageTitle>
+
+<h3>Upload Your CV for Summarization</h3>
+
+<InputFile OnChange="@HandleFileSelected" />
+
+@if (!string.IsNullOrEmpty(Summary))
+{
+    <h4>Summarized CV:</h4>
+    <p>@Summary</p>
+}
+
+@code {
+    private string Summary;
+
+    private async Task HandleFileSelected(InputFileChangeEventArgs e)
+    {
+        var file = e.File;
+
+        if (file != null)
+        {
+            using var content = new MultipartFormDataContent();
+            using var stream = file.OpenReadStream(maxAllowedSize: 10_000_000);  // Max size 10MB
+            var fileContent = new StreamContent(stream);
+            content.Add(fileContent, "file", file.Name);
+
+            // Use the injected HttpClient (Http) instead of HttpClient directly
+           try
+            {
+                var response = await Http.PostAsync("/api/cvsummarizer", content);
+
+                if (response.IsSuccessStatusCode)
+                {
+                    Summary = await response.Content.ReadAsStringAsync();
+                }
+                else
+                {
+                    Summary = "Error processing the CV.";
+                }
+            }
+            catch (Exception ex)
+            {                
+                throw;
+            }
+
+           
+        }
+    }
+}

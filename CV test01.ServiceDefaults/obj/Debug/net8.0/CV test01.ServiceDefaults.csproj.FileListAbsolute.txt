@@ -1,0 +1,12 @@
+C:\Traning\CV analyzer\CV test01\CV test01.ServiceDefaults\bin\Debug\net8.0\CV test01.ServiceDefaults.deps.json
+C:\Traning\CV analyzer\CV test01\CV test01.ServiceDefaults\bin\Debug\net8.0\CV test01.ServiceDefaults.dll
+C:\Traning\CV analyzer\CV test01\CV test01.ServiceDefaults\bin\Debug\net8.0\CV test01.ServiceDefaults.pdb
+C:\Traning\CV analyzer\CV test01\CV test01.ServiceDefaults\obj\Debug\net8.0\CV test01.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Traning\CV analyzer\CV test01\CV test01.ServiceDefaults\obj\Debug\net8.0\CV test01.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Traning\CV analyzer\CV test01\CV test01.ServiceDefaults\obj\Debug\net8.0\CV test01.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Traning\CV analyzer\CV test01\CV test01.ServiceDefaults\obj\Debug\net8.0\CV test01.ServiceDefaults.AssemblyInfo.cs
+C:\Traning\CV analyzer\CV test01\CV test01.ServiceDefaults\obj\Debug\net8.0\CV test01.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Traning\CV analyzer\CV test01\CV test01.ServiceDefaults\obj\Debug\net8.0\CV test01.ServiceDefaults.dll
+C:\Traning\CV analyzer\CV test01\CV test01.ServiceDefaults\obj\Debug\net8.0\refint\CV test01.ServiceDefaults.dll
+C:\Traning\CV analyzer\CV test01\CV test01.ServiceDefaults\obj\Debug\net8.0\CV test01.ServiceDefaults.pdb
+C:\Traning\CV analyzer\CV test01\CV test01.ServiceDefaults\obj\Debug\net8.0\ref\CV test01.ServiceDefaults.dll

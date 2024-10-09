@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "https": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:17062;http://localhost:15040",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DOTNET_ENVIRONMENT": "Development",
+        "DOTNET_DASHBOARD_OTLP_ENDPOINT_URL": "https://localhost:21093",
+        "DOTNET_RESOURCE_SERVICE_ENDPOINT_URL": "https://localhost:22224"
+      }
+    },
+    "http": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:15040",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DOTNET_ENVIRONMENT": "Development",
+        "DOTNET_DASHBOARD_OTLP_ENDPOINT_URL": "http://localhost:19088",
+        "DOTNET_RESOURCE_SERVICE_ENDPOINT_URL": "http://localhost:20214"
+      }
+    },
+    "OpenAi": {
+      "ApiKey": "https://btg-openai-01.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2023-03-15-preview"
+    },
+    "ConnectionStrings": {
+      "PostgresConnection": "Host=codecrunc-server.postgres.database.azure.com;Database=postgres;Username=codecrunch;Password=Aspire1234"
+    }
+  }  
+}
